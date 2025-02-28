@@ -6,7 +6,7 @@ MovieNest is a **movie curation app** that allows users to search for movies usi
 
 ## 🚀 Live Demo
 
-🔗 **Live URL**: [MovieNest](#)  
+🔗 **Live URL**: [MovieNest](https://movienest-backend.onrender.com/api/movies/search?query=dark)  
 🔗 **API Documentation**: [Postman Collection](#)  
 
 ---
