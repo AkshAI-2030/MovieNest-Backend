@@ -45,31 +45,31 @@ MovieNest is a **movie curation app** that allows users to search for movies usi
 
 ### 🎬 Search Movies (`GET /api/movies/search`)
 
-<img width="983" alt="Image" src="https://github.com/user-attachments/assets/sample-movies" />
+<img width="978" alt="Image" src="https://github.com/user-attachments/assets/91baf8ce-accb-41df-b1a2-b8244b7bc296" />
 
 ---
 
 ### 📋 Create Curated List (`POST /api/curated-lists`)
 
-<img width="972" alt="Image" src="https://github.com/user-attachments/assets/sample-curated-list" />
+<img width="973" alt="Image" src="https://github.com/user-attachments/assets/2112b5fe-caaa-43ff-b339-29a3829e1037" />
 
 ---
 
 ### 🎦 Add Movie to Watchlist (`POST /api/movies/watchlist`)
 
-<img width="972" alt="Image" src="https://github.com/user-attachments/assets/sample-watchlist" />
+<img width="972" alt="Image" src="https://github.com/user-attachments/assets/2da36478-ac5c-4b91-a759-ad857e907663" />
 
 ---
 
 ### 💬 Add Review (`POST /api/movies/:movieId/reviews`)
 
-<img width="970" alt="Image" src="https://github.com/user-attachments/assets/sample-review" />
+<img width="968" alt="Image" src="https://github.com/user-attachments/assets/a00d1020-116c-4a30-97d7-9cee2fc43ca9" />
 
 ---
 
 ### 🌟 View Top-Rated Movies (`GET /api/movies/top5`)
 
-<img width="1053" alt="Image" src="https://github.com/user-attachments/assets/sample-top-rated" />
+<img width="983" alt="Image" src="https://github.com/user-attachments/assets/ad8462df-a36c-48fd-b3ae-eeec366ad471" />
 
 ---
 
