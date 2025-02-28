@@ -6,7 +6,10 @@ const {
   curatedList: curatedListModel,
   curatedListItem: curatedListItemModel,
 } = require("../models");
-const { searchMoviesFromTMDB, getActors } = require("./searchMovieController");
+const {
+  searchMoviesFromTMDB,
+  getActors,
+} = require("../services/searchMovieService");
 const {
   validateSearchQuery,
   validateCuratedList,
